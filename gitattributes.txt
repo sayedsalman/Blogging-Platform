@@ -3,4 +3,5 @@
 *.module linguist-language=PHP
 *.engine linguist-language=PHP
 *.install linguist-language=PHP
+
 *.theme linguist-language=PHP
